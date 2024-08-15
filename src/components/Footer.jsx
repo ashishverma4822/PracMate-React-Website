@@ -18,7 +18,7 @@ const Footer = () => {
           <i className="ri-facebook-circle-line text-3xl md:text-4xl"></i>
         </a>
         <a 
-          href="#" 
+          href="https://x.com/vashishk0602" 
           aria-label="Twitter" 
           title="Follow us on Twitter" 
           className="text-cyan-100 hover:text-[#ADD8E6]"
@@ -26,7 +26,7 @@ const Footer = () => {
           <i className="ri-twitter-line text-3xl md:text-4xl"></i>
         </a>
         <a 
-          href="#" 
+          href="https://www.instagram.com/ashishverma4822/" 
           aria-label="Instagram" 
           title="Follow us on Instagram" 
           className="text-cyan-100 hover:text-[#ADD8E6]"
@@ -34,7 +34,7 @@ const Footer = () => {
           <i className="ri-instagram-line text-3xl md:text-4xl"></i>
         </a>
         <a 
-          href="#" 
+          href="https://www.linkedin.com/in/ashishverma4822/" 
           aria-label="LinkedIn" 
           title="Follow us on LinkedIn" 
           className="text-cyan-100 hover:text-[#ADD8E6]"
