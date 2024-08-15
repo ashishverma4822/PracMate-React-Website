@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Introduction to React",
+    "description": "Learn the basics of React, including components, state, and props.",
+    "instructor": "Jane Doe",
+    "instructorBio": "Jane Doe is a front-end developer with over 10 years of experience in building web applications using React and other modern technologies.",
+    "instructorContact": "jane.doe@example.com",
+    "instructorPhoto": "https://randomuser.me/api/portraits/women/1.jpg",
+    "duration": "4 weeks",
+    "price": 99.99,
+    "logoUrl": "https://miro.medium.com/v2/resize:fit:522/0*Hdm7hBTZ-hKlbtlV.png"
+  },
+  {
+    "id": 2,
+    "title": "Advanced JavaScript",
+    "description": "Dive deeper into JavaScript and master advanced concepts such as ES6+ features, asynchronous programming with Promises and async/await, and advanced functions. This course will enhance your problem-solving skills and prepare you for complex JavaScript applications.",
+    "instructor": "John Smith",
+    "instructorBio": "John Smith is a seasoned software engineer with a passion for JavaScript and web technologies. He has worked on various high-profile projects and enjoys sharing his knowledge with others.",
+    "instructorContact": "john.smith@example.com",
+    "instructorPhoto": "https://randomuser.me/api/portraits/men/1.jpg",
+    "duration": "6 weeks",
+    "price": 129.99,
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png"
+  },
+  {
+    "id": 3,
+    "title": "Mastering CSS",
+    "description": "Master advanced CSS techniques with a focus on Flexbox, CSS Grid, and responsive design. Learn how to create flexible layouts, design visually appealing user interfaces, and implement responsive web designs that work seamlessly across different devices and screen sizes.",
+    "instructor": "Emily Davis",
+    "instructorBio": "Emily Davis is a web designer with a keen eye for detail and a love for creating beautiful, responsive designs. She has been working in the industry for over 8 years and enjoys teaching CSS techniques.",
+    "instructorContact": "emily.davis@example.com",
+    "instructorPhoto": "https://randomuser.me/api/portraits/women/2.jpg",
+    "duration": "5 weeks",
+    "price": 89.99,
+    "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyfXdKH7SrCVpLx-h0j9VSLf7LQxwWgptJNw&s"
+  },
+  {
+    "id": 4,
+    "title": "Introduction to Python",
+    "description": "Get started with Python programming by exploring the basics of syntax, data types, and control flow. This course covers fundamental concepts such as functions, modules, and error handling, providing a solid foundation for further exploration in Python development.",
+    "instructor": "Michael Johnson",
+    "instructorBio": "Michael Johnson is a data scientist with extensive experience in Python programming. He specializes in machine learning and data analysis, and has a passion for helping others learn Python.",
+    "instructorContact": "michael.johnson@example.com",
+    "instructorPhoto": "https://randomuser.me/api/portraits/men/2.jpg",
+    "duration": "4 weeks",
+    "price": 109.99,
+    "logoUrl": "https://i0.wp.com/junilearning.com/wp-content/uploads/2020/06/python-programming-language.webp?fit=1920%2C1920&ssl=1"
+  },
+  {
+    "id": 5,
+    "title": "Backend Development with Node.js",
+    "description": "Learn to build server-side applications using Node.js and Express. This course covers API development, middleware, authentication, and database integration. Gain practical experience by creating robust backend services and understanding how to handle server-side logic effectively.",
+    "instructor": "Sarah Brown",
+    "instructorBio": "Sarah Brown is a backend developer with a strong background in Node.js and server-side technologies. She has built numerous scalable applications and enjoys mentoring upcoming developers.",
+    "instructorContact": "sarah.brown@example.com",
+    "instructorPhoto": "https://randomuser.me/api/portraits/women/3.jpg",
+    "duration": "6 weeks",
+    "price": 119.99,
+    "logoUrl": "https://miro.medium.com/v2/resize:fit:900/1*TY9uBBO9leUbRtlXmQBiug.png"
+  },
+  {
+    "id": 6,
+    "title": "Data Science with Python",
+    "description": "Explore data analysis, visualization, and machine learning using Python libraries such as Pandas, Matplotlib, and Scikit-Learn. Learn to preprocess data, perform statistical analysis, and build predictive models to derive actionable insights from complex datasets.",
+    "instructor": "David Wilson",
+    "instructorBio": "David Wilson is a data scientist and machine learning expert with a passion for data-driven decision making. He has worked on various projects involving large datasets and advanced analytics.",
+    "instructorContact": "david.wilson@example.com",
+    "instructorPhoto": "https://randomuser.me/api/portraits/men/3.jpg",
+    "duration": "8 weeks",
+    "price": 149.99,
+    "logoUrl": "https://api.logoisus.com/wm/633a8dfaf4d1d8f499b1bc38?watermark=2&height=600&width=600"
+  }
+]

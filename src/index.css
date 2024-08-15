@@ -1,0 +1,24 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+
+/* styles.css or your global CSS file */
+.menu-slide-enter {
+    transform: translateY(-100%);
+  }
+  
+  .menu-slide-enter-active {
+    transform: translateY(0);
+    transition: transform 0.3s ease-out;
+  }
+  
+  .menu-slide-exit {
+    transform: translateY(0);
+  }
+  
+  .menu-slide-exit-active {
+    transform: translateY(-100%);
+    transition: transform 0.3s ease-in;
+  }
+  
