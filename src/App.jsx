@@ -7,6 +7,8 @@ import CoursesPage from './pages/CoursesPage';
 import CourseDetailsPage from './pages/CourseDetailsPage';
 import AboutPage from './pages/AboutPage';
 import ContactPage from './pages/ContactPage';
+import BuyNowPage from './pages/BuyNowPage';
+import ThankYouPage from './pages/ThankYouPage';
 
 function App() {
   return (
@@ -20,6 +22,8 @@ function App() {
             <Route path="/courses/:id" element={<CourseDetailsPage />} />
             <Route path="/about" element={<AboutPage />} />
             <Route path="/contact" element={<ContactPage />} />
+            <Route path="/buy/:id" element={<BuyNowPage />} />
+            <Route path="/thank-you" element={<ThankYouPage />} /> 
           </Routes>
         </main>
         <Footer />
