@@ -9,7 +9,7 @@
     "instructorPhoto": "https://randomuser.me/api/portraits/women/1.jpg",
     "duration": "4 weeks",
     "price": 99.99,
-    "logoUrl": "https://miro.medium.com/v2/resize:fit:522/0*Hdm7hBTZ-hKlbtlV.png"
+    "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqAr2NU7tqiXwVISV8H_zDTdzFk6CM_RF2DA&s"
   },
   {
     "id": 2,
@@ -57,7 +57,7 @@
     "instructorPhoto": "https://randomuser.me/api/portraits/women/3.jpg",
     "duration": "6 weeks",
     "price": 119.99,
-    "logoUrl": "https://miro.medium.com/v2/resize:fit:900/1*TY9uBBO9leUbRtlXmQBiug.png"
+    "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZwuIMekZ9OeeXJZj6LPK3A0KFOSjMIyL2yQ&s"
   },
   {
     "id": 6,
@@ -70,5 +70,79 @@
     "duration": "8 weeks",
     "price": 149.99,
     "logoUrl": "https://api.logoisus.com/wm/633a8dfaf4d1d8f499b1bc38?watermark=2&height=600&width=600"
+  },
+  {
+    "id": 7,
+    "title": "Introduction to C++",
+    "description": "Get started with C++ programming by learning the fundamentals of syntax, data types, control flow, and object-oriented programming. This course provides a solid foundation for further exploration in C++ development.",
+    "instructor": "James Anderson",
+    "instructorBio": "James Anderson is a software engineer with a strong background in C++ development. He has worked on various large-scale projects and enjoys teaching others the fundamentals of programming in C++.",
+    "instructorContact": "james.anderson@example.com",
+    "instructorPhoto": "https://randomuser.me/api/portraits/men/6.jpg",
+    "duration": "5 weeks",
+    "price": 109.99,
+    "logoUrl": "https://logowik.com/content/uploads/images/911_c_logo.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Web Development with Django",
+    "description": "Explore web development using Django, a high-level Python web framework. This course covers model-view-controller (MVC) architecture, templating, forms, and deployment, providing you with the skills needed to build secure and scalable web applications.",
+    "instructor": "Ethan Green",
+    "instructorBio": "Ethan Green is a full-stack developer with a strong background in Django. He has built several web applications using Django and enjoys sharing his knowledge on best practices and efficient development techniques.",
+    "instructorContact": "ethan.green@example.com",
+    "instructorPhoto": "https://randomuser.me/api/portraits/men/4.jpg",
+    "duration": "8 weeks",
+    "price": 129.99,
+    "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPL1tHVVkauQtrSNisTEAwagdg-x6CHH7dkw&s"
+  },
+  {
+    "id": 9,
+    "title": "Advanced SQL for Data Analysis",
+    "description": "Deepen your SQL skills with advanced techniques for data analysis. This course covers complex queries, subqueries, joins, and data manipulation to help you extract meaningful insights and perform sophisticated data analysis tasks.",
+    "instructor": "Olivia Turner",
+    "instructorBio": "Olivia Turner is a data analyst with a strong focus on SQL and database management. She has worked with various data analysis tools and enjoys teaching others how to leverage SQL for data-driven decision-making.",
+    "instructorContact": "olivia.turner@example.com",
+    "instructorPhoto": "https://randomuser.me/api/portraits/women/5.jpg",
+    "duration": "4 weeks",
+    "price": 99.99,
+    "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBs7eIyUWImhwDwy6dsCVSJseDFR3lEJSGfQ&s"
+  },
+  {
+    "id": 10,
+    "title": "UX/UI Design Fundamentals",
+    "description": "Learn the principles of user experience (UX) and user interface (UI) design. This course covers design thinking, wireframing, prototyping, and usability testing to help you create user-centered designs that enhance the user experience.",
+    "instructor": "Isabella Clark",
+    "instructorBio": "Isabella Clark is a UX/UI designer with a passion for creating intuitive and engaging user interfaces. She has worked on various design projects and enjoys teaching others how to approach design challenges effectively.",
+    "instructorContact": "isabella.clark@example.com",
+    "instructorPhoto": "https://randomuser.me/api/portraits/women/6.jpg",
+    "duration": "5 weeks",
+    "price": 109.99,
+    "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdKvOhH1iOUmdb9mVoQmLkUjbSRNzQ9WaCpQ&s"
+  },
+  {
+    "id": 11,
+    "title": "Cybersecurity Essentials",
+    "description": "Understand the fundamentals of cybersecurity, including threat identification, risk management, and protective measures. This course covers essential concepts to help you secure systems and data against various cyber threats and vulnerabilities.",
+    "instructor": "Liam Harris",
+    "instructorBio": "Liam Harris is a cybersecurity expert with extensive experience in protecting systems from cyber threats. He has worked with various organizations to enhance their security posture and enjoys educating others about cybersecurity best practices.",
+    "instructorContact": "liam.harris@example.com",
+    "instructorPhoto": "https://randomuser.me/api/portraits/men/5.jpg",
+    "duration": "6 weeks",
+    "price": 119.99,
+    "logoUrl": "https://cdn.vectorstock.com/i/500p/48/11/cyber-security-logo-with-shield-vector-21344811.jpg"
+  },
+  {
+    "id": 13,
+    "title": "Advanced C++ Programming",
+    "description": "Dive deeper into C++ with advanced topics such as templates, STL (Standard Template Library), multi-threading, and memory management. This course is designed for those who want to master complex C++ features and improve their coding skills.",
+    "instructor": "Emma White",
+    "instructorBio": "Emma White is an experienced C++ developer with expertise in high-performance computing and software architecture. She has a passion for teaching advanced programming concepts and helping others excel in C++.",
+    "instructorContact": "emma.white@example.com",
+    "instructorPhoto": "https://randomuser.me/api/portraits/women/7.jpg",
+    "duration": "7 weeks",
+    "price": 139.99,
+    "logoUrl": "https://logowik.com/content/uploads/images/911_c_logo.jpg"
   }
+
 ]
+
