@@ -9,7 +9,10 @@ import AboutPage from './pages/AboutPage';
 import ContactPage from './pages/ContactPage';
 import BuyNowPage from './pages/BuyNowPage';
 import ThankYouPage from './pages/ThankYouPage';
-
+import ApplyNowPage from './pages/ApplyNowPage';
+import ReadMorePage from './pages/ReadMorePage';
+import GetStartedPage from './pages/GetStartedPage';
+import ThankYouPage2 from './pages/ThankYouPage2';
 function App() {
   return (
     <Router>
@@ -24,6 +27,9 @@ function App() {
             <Route path="/contact" element={<ContactPage />} />
             <Route path="/buy/:id" element={<BuyNowPage />} />
             <Route path="/thank-you" element={<ThankYouPage />} /> 
+            <Route path="/apply" element={<ApplyNowPage />} />
+            <Route path="/read-more" element={<ReadMorePage />} />
+            <Route path="/thank-you-2" element={<ThankYouPage2 />} />
           </Routes>
         </main>
         <Footer />
@@ -33,3 +39,4 @@ function App() {
 }
 
 export default App;
+
